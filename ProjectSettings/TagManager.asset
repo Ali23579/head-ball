@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - leftcastle
+  - rightcastle
+  - top
+  - bot_control
+  - player1
+  - player2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2441425877
+    locked: 0
+  - name: ball
+    uniqueID: 1759731939
+    locked: 0
+  - name: player
+    uniqueID: 1318249267
+    locked: 0
+  - name: kale
+    uniqueID: 412359245
+    locked: 0
+  - name: New Layer 5
+    uniqueID: 678272349
+    locked: 0
